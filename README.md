@@ -32,9 +32,9 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 5. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 ## OBSERVATIONS:
 ### REGULATION CHARACTERISTICS:
-![]()
+![](1.jpeg)
 ### V-I & REGULATION CHARACTERISTICS:
-![]()
+![](2.jpge)
 ## PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
