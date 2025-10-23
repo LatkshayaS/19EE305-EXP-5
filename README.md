@@ -30,11 +30,28 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 5. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-## OBSERVATIONS:
-### REGULATION CHARACTERISTICS:
-![](1.jpeg)
-### V-I & REGULATION CHARACTERISTICS:
-![](2.jpge)
+
+circuit diagram:
+
+![WhatsApp Image 2025-10-22 at 09 23 47_1385fdb5](https://github.com/user-attachments/assets/4472a5a5-42f2-46f2-b832-0d9b3cb6dc5e)
+
+tabulation:
+
+line regulation:
+![line regulation t](https://github.com/user-attachments/assets/1ed2f110-c826-43a5-9a1c-c1e99af3c399)
+
+load regulation:
+
+![load regulation t](https://github.com/user-attachments/assets/cdd11c56-3fa1-4825-b862-aa5883cee2f2)
+model graph:
+
+line regulation:
+![line regulation m](https://github.com/user-attachments/assets/5dd7dc84-7156-457f-a6a4-49b00267af3d)
+
+load regulation:
+
+![load regulation m](https://github.com/user-attachments/assets/6a9acf45-9ea1-4761-bb34-462ee40cae0f)
+
 ## PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
